@@ -1,37 +1,34 @@
-# marketing_h5_template
+# 响应式网站模板-多功能电子商务网页模板HTML5网站模板
 
 #### 介绍
-响应式网站，html5+css3+jquery实现的多功能电子商务网页模板，国外购物网站平台，可用于企业建站，毕业设计，html作业使用
+前端：HTML5+CSS3+JQUERY+BOOTSTRAP的技术架构，整站全响应式，支持移动端、PC端作为毕设作业，公司网站都非常合适。
+
 
 #### 软件架构
-软件架构说明
+前端：HTML5+CSS3+JQUERY+BOOTSTRAP  
 
+#### 功能结构
+首页展示：
+![输入图片说明](121%E9%A6%96%E9%A1%B5.png)
 
-#### 安装教程
+△商品分类
+![输入图片说明](qwqimage.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+△商品详情
+![输入图片说明](%5DJV5731IMV@T%5DF_MOEPCKKK.png)
+
 
 #### 使用说明
+1. 下载代码，双击html即可运行
+ 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 项目预览
+地址：[商品详情](https://www.xunmaw.com/shop/detail/1600382430910214146)
+点击演示地址 
 
-#### 参与贡献
+#### 联系作者
+这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者  
+![输入图片说明](image22.png)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+这是作者的公众号二维码，是不是会推一些新开发的项目源码与高效软件工具，感兴趣的朋友给个关注  
+![输入图片说明](image334.png)
